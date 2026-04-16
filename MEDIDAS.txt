@@ -1,0 +1,11 @@
+Tampa: 0,5cm
+Furo da tampa: 0,7cm
+Diametro da tampa:9,2cm
+Diametro da engrenagem grande: 3,2cm
+Diametro do eixo da engrenagem grande: 0,5cm
+Diametro da engrenagem menor: 2,2cm
+Diametro do eixo da engrenagem menor: 0,5cm
+Diametro da estrela menor: 3,6cm
+Diametro da estrela maior: 4,6cm
+Medidas da caixinha: 4,4cm x 4cm
+Profundidade da caixinha: 2cm
